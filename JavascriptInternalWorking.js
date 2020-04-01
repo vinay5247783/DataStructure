@@ -22,7 +22,8 @@ console.log("3");
 // callback queue if there is something there then it puts the console log
 // gets pushed on to the call stack then it gets executed so even if the 
 // time is set to be zero then these all processes takes time therefore 
-// we get the same output
+// we get the same output 
+//to read more about this api go to https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout
 
 
 console.log("1");
